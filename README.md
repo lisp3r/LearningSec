@@ -1,4 +1,4 @@
-# Learning Secure Development (but it is only about sanitizing user input)
+# 🖋️ Learning Secure Development (but it is only about sanitizing user input)
 
 * Lack of the validation of user input brings next vulnerabilities:
     * SQL Injection
